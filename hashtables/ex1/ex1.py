@@ -12,6 +12,8 @@ def get_indices_of_item_weights(weights, length, limit):
     """
     YOUR CODE HERE
     """
+    # I have no idea what to do here
+    # I need to study more
 
     return None
 
