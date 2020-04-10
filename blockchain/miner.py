@@ -40,6 +40,9 @@ def valid_proof(last_hash, proof):
     """
 
     # TODO: Your code here!
+    # I don't know what to do here
+    # I am not up to snuff on blockchain
+    # I will need to retake this section if I flex
     pass
 
 
