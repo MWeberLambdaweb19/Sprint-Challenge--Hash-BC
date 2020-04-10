@@ -19,5 +19,5 @@ def reconstruct_trip(tickets, length):
     """
     YOUR CODE HERE
     """
-
+    # I don't know what to do here
     pass
